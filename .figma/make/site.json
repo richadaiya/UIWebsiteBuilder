@@ -1,0 +1,10 @@
+{
+  "description": "Provides a curated collection of high-quality UI designs for developers and designers to explore, learn from, and implement in their projects.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
